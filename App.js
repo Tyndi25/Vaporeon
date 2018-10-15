@@ -1,5 +1,6 @@
 import React from 'react';
-import { StyleSheet, Text, View, ImageBackground, Image , Button} from 'react-native';
+import { StyleSheet, Text, View, ImageBackground, Image } from 'react-native';
+import { Button } from 'react-native-elements';
 import eeveelutions from './pokes';
 
 export default class App extends React.Component {
